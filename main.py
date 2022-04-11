@@ -1,3 +1,3 @@
 print("hello world")
-# this is a comment
-# this is another... comment
+# :D
+# hopefully this will work without any big problems behind 
